@@ -1,0 +1,1 @@
+{"name":"Local: d_raja","url":"/Users/sayanpaul/Desktop/cp/problems/d_raja.cpp","tests":[{"id":1661762879663,"input":"1\n4 5 6\n1 2 10\n1 3 5\n2 3 15\n2 4 10\n3 4 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sayanpaul/Desktop/cp/problems/d_raja.cpp","group":"local","local":true}

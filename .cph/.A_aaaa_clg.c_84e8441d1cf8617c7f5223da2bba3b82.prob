@@ -1,0 +1,1 @@
+{"name":"Local: A_aaaa_clg","url":"/Users/sayanpaul/Desktop/cp/problems/A_aaaa_clg.c","tests":[{"id":1660293545365,"input":"4 2 1 3 7 5 6 10 9 8","output":"1 2 3 4 5 6 7 8 9 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sayanpaul/Desktop/cp/problems/A_aaaa_clg.c","group":"local","local":true}
